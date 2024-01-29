@@ -11,6 +11,7 @@ namespace Algorithm
         static void Main(string[] args)
         {
             int test = 0;
+            int test2 = 1;
         }
     }
 }
